@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GitActionsTester\\",
+  "WorkspaceRootPath": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GITHUB\\PROG7312-GitActionsTester\\GitActionsTester\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21C2A34E-200D-44FE-B6C1-D817234E14D9}|GitActionsTester\\GitActionsTester.csproj|c:\\users\\dillo\\onedrive - advtech ltd\\3.2\\prog7312\\vs22\\gitactionstester\\gitactionstester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21C2A34E-200D-44FE-B6C1-D817234E14D9}|GitActionsTester\\GitActionsTester.csproj|c:\\users\\dillo\\onedrive - advtech ltd\\3.2\\prog7312\\vs22\\github\\prog7312-gitactionstester\\gitactionstester\\gitactionstester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21C2A34E-200D-44FE-B6C1-D817234E14D9}|GitActionsTester\\GitActionsTester.csproj|solutionrelative:gitactionstester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GitActionsTester\\GitActionsTester\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GITHUB\\PROG7312-GitActionsTester\\GitActionsTester\\GitActionsTester\\Program.cs",
               "RelativeDocumentMoniker": "GitActionsTester\\Program.cs",
-              "ToolTip": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GitActionsTester\\GitActionsTester\\Program.cs",
+              "ToolTip": "C:\\Users\\dillo\\OneDrive - ADvTECH Ltd\\3.2\\PROG7312\\VS22\\GITHUB\\PROG7312-GitActionsTester\\GitActionsTester\\GitActionsTester\\Program.cs",
               "RelativeToolTip": "GitActionsTester\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
